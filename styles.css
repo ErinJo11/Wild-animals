@@ -1,9 +1,22 @@
 html{
     font-family: sans-serif;
+    background-color: beige;
+}
+
+.nav{
+    font-weight: bolder;
 }
 
 .global-nav{
-background-color: #769a70
+background-color: #769a70;
+border-width: 5px;
+border-style: solid;
+border-color: black;
+margin: 20px;
+padding: 30px;
+}
 
+.header{
+color: #769a70;
 
 }
