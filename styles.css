@@ -1,4 +1,4 @@
-html{
+html {
     font-family: sans-serif;
     background-color: beige;
 }
@@ -18,5 +18,15 @@ padding: 30px;
 
 .header{
 color: #769a70;
+
+}
+
+.local-nav{
+background-color: burlywood;
+border-width: 5px;
+border-style: solid;
+border-color: black;
+margin: 20px;
+padding: 30px;
 
 }
